@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6282389924037@s.whatsapp.net","6287778405247@s.whatsapp.net"],
+    "ownerName": "ᴹᴿS᭄Vynaa Offcོ",
+    "instagram" : "https://s.id/1DRIY",
+    "gcwa" : "https://s.id/1DRIY",
+    "botName": "Vynaa-Mdོ ",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "sk-Pzxm0nI4poXKvjUXYLYcT3BlbkFJx1UNv8YkxaeNwTEG",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
